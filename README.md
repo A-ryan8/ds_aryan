@@ -43,7 +43,7 @@ Two datasets were used:
 Located in `ds_aryan/outputs/`.
 
 ## 📎 Colab Notebook Link
-Paste your shareable link here.
+https://colab.research.google.com/drive/1uVXu1HbwCd4siPwEbM2jouZ0453e1xw6?usp=sharing
 
 ## 🚀 How to Run
 1. Open Colab link  
@@ -51,4 +51,4 @@ Paste your shareable link here.
 3. Outputs generate automatically  
 
 ## 📬 Contact
-Available for explanation in interview.
+Available to discuss the analysis and insights during the interview.
