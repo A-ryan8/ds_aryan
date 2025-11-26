@@ -23,8 +23,9 @@ ds_aryan/
 ## 📌 Project Overview
 This project analyzes how trader behavior changes with market sentiment (fear, greed, extreme fear, extreme greed, neutral).  
 Two datasets were used:
-1. Hyperliquid Trader Data  
-2. Bitcoin Fear & Greed Index  
+1. Hyperliquid Trader Data
+2. Note: hyperliquid_traders.csv is provided as a ZIP file (hyperliquid_traders.zip) due to GitHub size limitations.
+3. Bitcoin Fear & Greed Index  
 
 ## 📈 Key Analysis
 - Data cleaning (timestamps, numeric conversions, merging)
